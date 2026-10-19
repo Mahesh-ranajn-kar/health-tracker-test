@@ -4,15 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ebf1bc2-8eda-4c3b-b9da-f4f4bcd19f45" name="Changes" comment="" />
+    <list default="true" id="6ebf1bc2-8eda-4c3b-b9da-f4f4bcd19f45" name="Changes" comment="init 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new-code" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mahesh-ranajn-kar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mahesh-ranajn-kar/health-tracker-test.git",
+    "accountId": "e50624ac-5816-47b4-8439-72aa1c5e991f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
   "fromUser": false
@@ -28,6 +47,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "git.auto.fetch.suggestion.counter": "1",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/mahesh/Downloads/Code/GitHub/health-tracker-rest-master",
     "nodejs_package_manager_path": "npm",
@@ -65,6 +85,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="init 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
